@@ -18,3 +18,4 @@ The blaze rod drop chance is calculated by generating a random number between 1 
 ### Final note
 the random numbers generated are pseudo-random which means "_They are not truly random, because when a computer is functioning correctly, nothing it does is random._" but this isn't me being bias this is just how computers work! I also did this in java 1.8 as that is the version minecraft use, so it will have the same random number generation algorithms.  
 
+
