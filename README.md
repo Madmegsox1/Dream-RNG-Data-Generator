@@ -1,6 +1,8 @@
 # Dream RNG Data Generator
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Madmegsox1.Dream-RNG-Data-Generator)
+![Created Badge](https://badges.pufler.dev/created/Madmegsox1/Dream-RNG-Data-Generator)
+![Java1.8 Badge](https://img.shields.io/badge/Java-1.8-a86932.svg)
 
 
 ## **INFO**
