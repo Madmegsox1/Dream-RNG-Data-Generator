@@ -1,5 +1,6 @@
 # Dream RNG Data Generator
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Madmegsox1.Dream-RNG-Data-Generator)
 
 
 ## **INFO**
