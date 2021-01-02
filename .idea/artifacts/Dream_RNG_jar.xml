@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dream_RNG:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dream_RNG_jar</output-path>
+    <root id="archive" name="Dream RNG.jar">
+      <element id="module-output" name="Dream_RNG.main" />
+    </root>
+  </artifact>
+</component>

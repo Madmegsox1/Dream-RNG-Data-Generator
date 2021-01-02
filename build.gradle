@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'madmeg.rng'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'madmeg.rng.run'
+    }
+}
