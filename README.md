@@ -1,6 +1,6 @@
 # Dream RNG Data Generator
 
-![Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FMadmegsox1%2FDream-RNG-Data-Generator)
+
 
 ## **INFO**
 This program generates the RNG data for 1.16 minecraft on the number of times a blaze rod is dropped, or an ender pearl barter trade happens it then calculates the average and min and max number. It then writes all this data to a csv file. **The data and code is unbiased**.
